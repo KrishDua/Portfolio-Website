@@ -36,7 +36,7 @@ function SkillsSection() {
             <Skillcard name="SVM" image="/svm.jpg" />
             <Skillcard name="PCA" image="/pca.jpg" />
             <Skillcard name="NLP" image="/nlp.jpg" />
-            <Skillcard name="Neural Networks" image="/nn.svg" />
+            <Skillcard name="Neural Networks" image="/NN.svg" />
             <Skillcard name="TensorFlow" image="/Tensorflow.svg" />
             <Skillcard name="Keras" image="/Keras.svg" />
             <Skillcard name="CNN" image="/cnn.png" />
