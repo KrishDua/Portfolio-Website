@@ -59,7 +59,6 @@ This portfolio allows visitors to:
 **Krish Dua**  
 [Portfolio Link](https://krishdua.vercel.app)  
 [LinkedIn](https://www.linkedin.com/in/krish-dua-9202a4272/)  
-[GitHub](https://github.com/KrishDua)
 
 ---
 
