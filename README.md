@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Krish Dua — Portfolio Website
 
-## Getting Started
+This is a personal portfolio website built using **Next.js** and **Tailwind CSS**, showcasing my technical skills, projects, experience, and contact information in a clean and responsive design.
 
-First, run the development server:
+It serves as a hub for exploring my work in machine learning, web development, and problem-solving through competitive programming.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Overview
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+This portfolio allows visitors to:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- View my background, education, and achievements
+- Explore featured projects with GitHub and live links
+- Browse work experience with visual cards
+- Contact me via a secure email form using FormSubmit
+- Navigate smoothly across sections using a responsive layout
+- Access my profiles on GitHub, LeetCode, Codeforces, and others
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Responsive design for all screen sizes
+- Tailwind CSS utility-based styling
+- Interactive cards and hover animations
+- Typing animation on the homepage intro
+- Contact form integration via FormSubmit
+- Live deployment on Vercel
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Technologies Used
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Frontend
+- Next.js – React-based framework with hybrid rendering
+- Tailwind CSS – Utility-first styling
+- Heroicons – Icon library used across the UI
+- TypeAnimation – Typing effect for dynamic text
+- FormSubmit – Email forwarding without a backend
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## Live Demo
+
+**Website**: [https://krishdua.vercel.app](https://krishdua.vercel.app)
+
+---
+
+## APIs / Integrations
+
+- FormSubmit – For secure email form submission
+- Vercel – For continuous deployment and hosting
+
+---
+
+## Author
+
+**Krish Dua**  
+[Portfolio Link](https://krishdua.vercel.app)  
+[LinkedIn](https://www.linkedin.com/in/krish-dua-9202a4272/)  
+[GitHub](https://github.com/KrishDua)
+
+---
+
