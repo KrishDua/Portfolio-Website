@@ -24,7 +24,7 @@ function EmailSection() {
               Let&apos;s Connect
             </h5>
             <p className="text-[#ADB7BE] mb-4 max-w-md">
-              Thanks for stopping by! I&apos;m always happy to connect — whether
+              Thanks for stopping by! I&apos;m always happy to connect whether
               it's about a job opening, a project idea, or just tech talk. Drop
               me a message anytime!
             </p>
