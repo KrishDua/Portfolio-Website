@@ -39,17 +39,20 @@ export default function HeroSection() {
             text-white font-semibold shadow-lg transition duration-300">
             Hire Me
             </button> */}
-            <button className="px-6 py-3 w-full sm:w-fit rounded-full 
+            {/* <button className="px-6 py-3 w-full sm:w-fit rounded-full 
             bg-cyan-500 hover:bg-cyan-600
-            text-white font-semibold shadow-lg transition duration-300">
+            text-white font-semibold shadow-lg transition duration-300"> */}
             <a
+              className="px-6 py-3 w-full sm:w-fit rounded-full 
+              bg-cyan-500 hover:bg-cyan-600
+              text-white font-semibold shadow-lg transition duration-300"
               href="https://drive.google.com/file/d/1g7-KoHBcSOUKU60r1gJJ6W5gHs1vdqgr/view?usp=share_link"
               target="_blank"
               rel="noopener noreferrer"
             >
               View Resume
             </a>
-            </button>
+            {/* </button> */}
           </div>
         </div>
         <div className="lg:col-span-5 flex justify-center mt-4 lg:mt-0">
