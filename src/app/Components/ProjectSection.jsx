@@ -65,19 +65,35 @@ const projects = [
     },
     {
         id : 9,
-        title : "Note Taking App",
-        imgurl : "/NoteTaking.jpeg",
+        title : "Tenzies Game",
+        imgurl : "/TenziesGame.jpeg",
         tag : ["All","Web"],
-        githuburl : "https://github.com/KrishDua/Note-Taking-App",
-        liveurl : "https://note-taking-app-nw4j.onrender.com",
+        githuburl : "https://github.com/KrishDua/TenziesGame",
+        liveurl : "https://krishtenziesgame.vercel.app",
     },
     {
         id : 10,
+        title : "Assembly Endgame",
+        imgurl : "/AssemblyEndgame.jpeg",
+        tag : ["All","Web"],
+        githuburl : "https://github.com/KrishDua/AssemblyEndgame",
+        liveurl : "https://krishassemblyendgame.vercel.app",
+    },
+    {
+        id : 11,
         title : "Chatting App",
         imgurl : "/ChattingApp.jpeg",
         tag : ["All","Web"],
         githuburl : "https://github.com/KrishDua/chatting-app",
         liveurl : "https://chatting-app-28g0.onrender.com",
+    },
+    {
+        id : 12,
+        title : "Note Taking App",
+        imgurl : "/NoteTaking.jpeg",
+        tag : ["All","Web"],
+        githuburl : "https://github.com/KrishDua/Note-Taking-App",
+        liveurl : "https://note-taking-app-nw4j.onrender.com",
     }
 ]
 const [tag,settag] = React.useState("All");
