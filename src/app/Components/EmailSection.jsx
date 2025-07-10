@@ -29,7 +29,7 @@ function EmailSection() {
               me a message anytime!
             </p>
             <div className="flex justify-center gap-4 flex-wrap">
-              <Link href="https://leetcode.com/u/krish312/" target="_blank">
+              <Link href="https://leetcode.com/u/_hkrishna_/" target="_blank">
                 <Image
                   height={40}
                   width={40}
