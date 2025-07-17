@@ -23,9 +23,9 @@ export default function AboutSection() {
         "Secured a global rank of 7758 in Meta Hacker Cup 2024.",
         "Achieved 864 rank in India in the prestigious IEEE Xtreme 24-hour coding competition.",
         "Solved 1200+ DSA problems, showcasing strong problem-solving skills and consistency.",
-        "Tackled 800+ questions on LeetCode with a peak rating of 1800.",
-        "Active competitive programmer with a Codeforces rating of 1523 (Specialist).",
-        "Achieved 3⭐️ (1619) on CodeChef"
+        "Leetcode Knight with 800+ problems solved and a peak rating of 1846",
+        "Codeforces Specialist with a peak rating of 1537",
+        "CodeChef 3⭐️ (1750) rated competitive programmer"
 
     ]
   return (
