@@ -25,7 +25,7 @@ export default function AboutSection() {
         "Solved 1200+ DSA problems, showcasing strong problem-solving skills and consistency.",
         "Leetcode Knight with 800+ problems solved and a peak rating of 1846",
         "Codeforces Specialist with a peak rating of 1537",
-        "CodeChef 3⭐️ (1750) rated competitive programmer"
+        "CodeChef 3⭐️ (1753) rated competitive programmer"
 
     ]
   return (
