@@ -5,7 +5,7 @@ import Link from 'next/link';
 export default function ProjectCard({ project }) {
   return (
     <div className="rounded-xl shadow-lg overflow-hidden flex flex-col border border-cyan-500 
-                    transform transition duration-300 hover:scale-105 hover:shadow-2xl bg-[#0f172a]">
+                    transform transition duration-300 hover:scale-105 hover:shadow-2xl active:scale-105 active:shadow-2xl bg-[#0f172a]">
       <div
         className="h-52 md:h-64 w-full bg-no-repeat bg-contain bg-center"
         style={{ 

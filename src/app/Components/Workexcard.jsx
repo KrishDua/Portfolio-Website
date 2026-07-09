@@ -5,12 +5,12 @@ import Image from 'next/image';
 function Workexcard({ heading, company, duration, bullets, image }) {
   return (
     <div className="bg-[#0f172a] border border-cyan-500 text-white p-8 rounded-2xl shadow-lg 
-      transition-transform duration-300 hover:scale-105 hover:shadow-2xl max-w-3xl mx-auto flex flex-col gap-6 items-center text-center">
+      transition-transform duration-300 hover:scale-105 hover:shadow-2xl active:scale-105 active:shadow-2xl max-w-3xl mx-auto flex flex-col gap-6 items-center text-center">
 
       {/* Image on top */}
       {image && (
         <div className="duration-300 
-        hover:scale-120 text-white rounded-xl p-4 shadow-md flex flex-col items-center justify-center bg-transparent hover:shadow-lg transition-all w-40 h-40">
+        hover:scale-120 active:scale-120 text-white rounded-xl p-4 shadow-md flex flex-col items-center justify-center bg-transparent hover:shadow-lg active:shadow-lg transition-all w-40 h-40">
           <Image
             src={image}
             alt={company}

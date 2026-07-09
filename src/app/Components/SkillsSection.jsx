@@ -7,7 +7,7 @@ function SkillsSection() {
     <div className="bg-[#0f172a] border border-cyan-500 
     rounded-2xl w-full mb-10 shadow-lg p-8 
     mx-auto transition-transform duration-300 
-    hover:scale-105 hover:shadow-2xl">
+    hover:scale-105 hover:shadow-2xl active:scale-105 active:shadow-2xl">
         <h2 className="text-3xl font-bold text-cyan-400 mb-6 text-center">
             My Skills
         </h2>

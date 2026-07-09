@@ -38,7 +38,7 @@ function Form() {
       ref={formRef}
       onSubmit={handleSubmit}
       className="bg-[#0f172a] border border-cyan-500 rounded-2xl p-6 sm:p-10 shadow-lg max-w-2xl mx-auto flex flex-col gap-6
-      transition-transform duration-300 hover:scale-105 hover:shadow-2xl"
+      transition-transform duration-300 hover:scale-105 hover:shadow-2xl active:scale-105 active:shadow-2xl"
     >
       <input
         type="text"

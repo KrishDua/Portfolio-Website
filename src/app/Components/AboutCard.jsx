@@ -13,7 +13,7 @@ function AboutCard(props) {
 
   return (
     <div className="bg-[#0f172a] border border-cyan-500 text-white p-8 rounded-2xl shadow-lg 
-      transition-transform duration-300 hover:scale-105 hover:shadow-2xl max-w-3xl mx-auto">
+      transition-transform duration-300 hover:scale-105 hover:shadow-2xl active:scale-105 active:shadow-2xl max-w-3xl mx-auto">
       <h2 className="text-3xl font-bold text-cyan-400 mb-6 text-center">
        {props.heading}
       </h2>
